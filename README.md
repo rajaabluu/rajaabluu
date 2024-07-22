@@ -6,7 +6,5 @@
 
 ###
 
-<div align="center">
-</div>
 
 ###
